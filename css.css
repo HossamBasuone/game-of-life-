@@ -1,0 +1,23 @@
+.rowClass{
+    display: flex;
+    flex-direction: row;
+
+    width: 800px;
+    height: 100px;
+}
+
+.cellClass{
+    width: 50px;
+    height: 70px;
+    margin: 05px;
+    
+}
+.black{
+    background-color: black;
+    
+}
+.rewind{
+
+background-color:gainsboro ;
+
+}
