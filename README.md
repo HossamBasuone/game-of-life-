@@ -30,13 +30,18 @@ cd game-of-life-
 Simply open `index.html` in your browser.  
 
 ## 📝 How It Works  
+![image](https://github.com/user-attachments/assets/65a81b28-6b5f-4bcb-b000-4c82f7e23e4a)
 
 1️⃣ Click on the grid to activate/deactivate cells.  
 2️⃣ Press the **Start** button to begin the simulation.  
+![image](https://github.com/user-attachments/assets/222d6c31-c92a-436c-b6ee-6025f4d975a9)
+
 3️⃣ Cells will evolve based on these rules:  
    - A **live cell** with **fewer than 2** or **more than 3** neighbors dies.  
    - A **dead cell** with **exactly 3** neighbors becomes alive.  
-4️⃣ Pause or restart the simulation at any time.  
+4️⃣ Pause or restart the simulation at any time.
+![image](https://github.com/user-attachments/assets/6c06b008-7cc5-4221-afe3-3f3a8c1ff6ea)
+
 
 ## 📌 Future Improvements  
 
