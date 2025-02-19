@@ -1,5 +1,5 @@
 let parentDiv =document.getElementById('parent');
-const HEIGHT =10, WIDTH=15;
+const HEIGHT =6, WIDTH=25;
 let intervalId;
 let connectFourGrid = [];
 
