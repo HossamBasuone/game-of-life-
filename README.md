@@ -10,7 +10,7 @@ A simple implementation of Conway's Game of Life using **HTML, CSS, and JavaScri
 ✅ **Responsive design** – Works on different screen sizes.  
 
 ## 🌍 Live Demo  
-🚀 [View Live Project](/shopping-site-black-three.vercel.app) 
+🚀 [View Live Project]((https://hossambasuone.github.io/game-of-life-/)) 
 
 ## 🛠 Technologies Used  
 
